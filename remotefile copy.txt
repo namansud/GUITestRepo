@@ -1,2 +1,3 @@
 Some text
 Added more text
+Added text again to test merge
